@@ -4,9 +4,9 @@
          
 - Developed by Reza Geshani                  
 
-- Created - 2025-09-25        
+- Created - 2025-10-11        
 
-- Technologies Used - TailwindCSS , React , NextJs , API , MongoDB                                                    
+- Technologies Used - TailwindCSS , React , NextJs , API , MongoDB , bcryptjs , cookie , json-web-token                                                   
 
 - Role - Frontend
 
