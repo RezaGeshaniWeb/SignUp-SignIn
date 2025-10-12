@@ -1,4 +1,4 @@
-# SignUp - SignIn     
+# SignUp - SignIn - Authentication - Authorization
 
 [Online Demo](https://sign-up-sign-in-phi.vercel.app/)
          
